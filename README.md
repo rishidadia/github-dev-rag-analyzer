@@ -136,11 +136,5 @@ It intentionally does **not** perform deep source-code analysis or validate READ
 
 ---
 
-## License
-
-MIT
-
----
-
 > **One-line takeaway:**  
 > This project demonstrates how to build a **correct, explainable GitHub analysis system** by separating intent detection, retrieval, and reasoning — instead of letting an LLM guess.
